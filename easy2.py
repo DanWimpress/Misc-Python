@@ -16,4 +16,4 @@ def FirstFactorial(num):
 # keep this function call here  
 # to see how to enter arguments in Python scroll down
 
-FirstFactorial(input())
+FirstFactorial(int(input()))
